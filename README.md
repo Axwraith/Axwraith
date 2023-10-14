@@ -67,7 +67,7 @@
   <a href="https://filamentphp.com/" target="_blank" rel="noreferrer">
     <img src="https://pbs.twimg.com/profile_images/1619675369333788674/FVauPXtT_400x400.jpg" alt="filamentphp" width="40" heigh="40">
   </a>
-  <a href="[https://filamentphp.com/](https://pptr.dev/)" target="_blank" rel="noreferrer">
+  <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer" width="40" heigh="40">
   </a>
 </p>
