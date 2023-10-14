@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spectremelody&label=Profile%20views&color=0e75b6&style=flat" alt="spectremelody" /> </p>
 
-<p align="left"> <a href="https://github.com/SpectreMelody><img src="https://github-profile-trophy.vercel.app/?username=spectremelody&theme=tokyonight&column=4&row=2&margin-w=10&margin-h=8&no-frame=true" alt="spectremelody" /></a> </p>
+<p align="left"> <a href="https://github.com/SpectreMelody"><img src="https://github-profile-trophy.vercel.app/?username=spectremelody&theme=tokyonight&column=4&row=2&margin-w=10&margin-h=8&no-frame=true" alt="spectremelody" /></a> </p>
 
 - 📚 I’m currently learning **Node JS** and **Web Scraping**
 
