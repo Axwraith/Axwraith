@@ -49,6 +49,27 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" heigh="40">
+  </a>
+  <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4" alt="livewire" width="40" heigh="40">
+  </a>
+  <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/59030169?s=280&v=4" alt="alpinejs" width="40" heigh="40">
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" alt="docker" width="40" heigh="40">
+  </a>
+  <a href="https://www.rabbitmq.com/documentation.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="rabbitmq" width="40" heigh="40">
+  </a>
+  <a href="https://filamentphp.com/" target="_blank" rel="noreferrer">
+    <img src="https://pbs.twimg.com/profile_images/1619675369333788674/FVauPXtT_400x400.jpg" alt="filamentphp" width="40" heigh="40">
+  </a>
+  <a href="[https://filamentphp.com/](https://pptr.dev/)" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer" width="40" heigh="40">
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spectremelody&show_icons=true&locale=en&theme=tokyonight" alt="spectremelody" /></p>
