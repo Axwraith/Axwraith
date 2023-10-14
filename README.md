@@ -7,6 +7,7 @@
 <p align="center"> <a href="https://github.com/SpectreMelody"><img src="https://github-profile-trophy.vercel.app/?username=spectremelody&theme=tokyonight&column=4&row=2&margin-w=10&margin-h=8&no-frame=true" alt="spectremelody" /></a> </p>
 
 - 📚 I’m currently learning **Node JS** and **Web Scraping**
+- 💭 Ask Me about Laravel Framework
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
