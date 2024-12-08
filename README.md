@@ -67,6 +67,18 @@
   <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer" width="40" heigh="40">
   </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://inertiajs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" alt="inertiajs" width="40" height="40"/> 
+  </a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> 
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spectremelody&show_icons=true&locale=en&theme=tokyonight" alt="spectremelody" /></p>
