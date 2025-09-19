@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I'm Rudiana Rizki Alhadi</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=spectremelody&label=Profile%20views&color=0e75b6&style=flat" alt="spectremelody" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=spectremelody&label=Profile%20views&color=0e75b6&style=flat" alt="axwraith" /> </p>
 
-<p align="center"> <a href="https://github.com/SpectreMelody"><img src="https://github-profile-trophy.vercel.app/?username=spectremelody&theme=tokyonight&column=4&row=2&margin-w=10&margin-h=8&no-frame=true" alt="spectremelody" /></a> </p>
+<p align="center"> <a href="https://github.com/Axwraith"><img src="https://github-profile-trophy.vercel.app/?username=axwraith&theme=tokyonight&column=4&row=2&margin-w=10&margin-h=8&no-frame=true" alt="axwraith" /></a> </p>
 
 - 📚 I’m currently learning **Node JS** and **Web Scraping**
 - 💭 Ask Me about Laravel Framework
@@ -81,8 +81,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spectremelody&show_icons=true&locale=en&theme=tokyonight" alt="spectremelody" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axwraith&show_icons=true&locale=en&theme=tokyonight" alt="axwraith" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spectremelody&show_icons=true&locale=en&theme=tokyonight" alt="spectremelody" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axwraith&show_icons=true&locale=en&theme=tokyonight" alt="axwraith" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spectremelody&theme=tokyonight" alt="spectremelody" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axwraith&theme=tokyonight" alt="axwraith" /></p>
