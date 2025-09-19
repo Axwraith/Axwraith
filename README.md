@@ -20,7 +20,7 @@
 </p>
 
 - 💭 Ask Me about Laravel Framework
-- 📚 I’m learning **Web Scraping** using Puppeteer or Playwright
+- 📚 I’m learning **Web Scraping** using Puppeteer and Playwright
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
