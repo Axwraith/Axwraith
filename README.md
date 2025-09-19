@@ -19,8 +19,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=axwraith&theme=tokyonight&hide_border=false">
 </p>
 
-- 📚 I’m currently learning **Node JS** and **Web Scraping**
 - 💭 Ask Me about Laravel Framework
+- 📚 I’m learning **Web Scraping** using Puppeteer or Playwright
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
